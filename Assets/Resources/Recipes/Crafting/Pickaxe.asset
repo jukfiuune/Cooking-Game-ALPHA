@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3636baeec1d9c774da9ce95fd6f9fbee, type: 3}
+  m_Name: Pickaxe
+  m_EditorClassIdentifier: 
+  product: {fileID: 11400000, guid: 0afa0857793322a429f359383df07a41, type: 2}
+  amount: 1
+  Requirements:
+  - {fileID: 11400000, guid: 5024d93a2f4fba74e95b36168be547cc, type: 2}
+  - {fileID: 11400000, guid: 99bd5b0c13b1bf14c88a7403d4e43b19, type: 2}
+  RequirementsAmount: 0200000003000000
+  category: Tools

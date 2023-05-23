@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78dfdae8736fce040a1852db2d66db1c, type: 3}
+  m_Name: TomatoSeeds
+  m_EditorClassIdentifier: 
+  Name: Tomato Seeds
+  Description: Seeds for tomato
+  stackSize: 40
+  itemIcon: {fileID: 21300000, guid: 11f6bd56132da4b4c9c9c95d5559ecd1, type: 3}
+  filterType: Misc
+  Plant: {fileID: 11400000, guid: 6b581d7027eab3045bebc9bcbf126931, type: 2}

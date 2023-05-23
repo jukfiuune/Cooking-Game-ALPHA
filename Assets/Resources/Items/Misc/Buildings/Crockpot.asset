@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e64417e9909c06740bc65118b05efd22, type: 3}
+  m_Name: Crockpot
+  m_EditorClassIdentifier: 
+  Name: Crockpot
+  Description: A crocked pot for your crockpot needs.
+  stackSize: 1
+  itemIcon: {fileID: 21300000, guid: 7c493cd274d7e324e8fad4c797923ac5, type: 3}
+  filterType: Building
+  building: {fileID: 4480857544720320404, guid: f3820395000af3842b779c4c693a3ab3, type: 3}

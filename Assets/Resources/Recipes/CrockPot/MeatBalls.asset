@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cb38931a6819fb43a6b388421f4d978, type: 3}
+  m_Name: MeatBalls
+  m_EditorClassIdentifier: 
+  Name: MeatBalls
+  product: {fileID: 11400000, guid: f0ea0814cf9978e4cb54fe20b377cee2, type: 2}
+  VeggiePoint: 0
+  FruitPoint: 0
+  MeatPoint: 1
+  SugarPoint: 0
+  DairyPoint: 0
+  SpecialRequirements: []
+  SpecialRequirementsAmount: 
+  priority: 1
+  cookTime: 5
